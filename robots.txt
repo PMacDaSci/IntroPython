@@ -1,1 +1,1 @@
-Sitemap: https://Sanduni-P.github.io/IntroPython-pandas/sitemap.xml
+Sitemap: https://PMacDaSci.github.io/IntroPython/sitemap.xml

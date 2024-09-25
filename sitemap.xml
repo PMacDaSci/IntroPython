@@ -1,27 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://Sanduni-P.github.io/IntroPython-pandas/index.html</loc>
-    <lastmod>2024-09-23T07:59:35.626Z</lastmod>
+    <loc>https://PMacDaSci.github.io/IntroPython/index.html</loc>
+    <lastmod>2024-09-25T01:54:51.841Z</lastmod>
   </url>
   <url>
-    <loc>https://Sanduni-P.github.io/IntroPython-pandas/vignettes/4_Visualization.html</loc>
-    <lastmod>2024-09-23T07:59:10.527Z</lastmod>
+    <loc>https://PMacDaSci.github.io/IntroPython/vignettes/4_Visualization.html</loc>
+    <lastmod>2024-09-25T01:54:24.343Z</lastmod>
   </url>
   <url>
-    <loc>https://Sanduni-P.github.io/IntroPython-pandas/vignettes/3_Data_manipulation.html</loc>
-    <lastmod>2024-09-23T07:58:37.374Z</lastmod>
+    <loc>https://PMacDaSci.github.io/IntroPython/vignettes/3_Data_manipulation.html</loc>
+    <lastmod>2024-09-25T01:53:49.013Z</lastmod>
   </url>
   <url>
-    <loc>https://Sanduni-P.github.io/IntroPython-pandas/vignettes/Introduction.html</loc>
-    <lastmod>2024-09-23T07:58:18.953Z</lastmod>
+    <loc>https://PMacDaSci.github.io/IntroPython/vignettes/1_Introduction.html</loc>
+    <lastmod>2024-09-25T01:53:53.479Z</lastmod>
   </url>
   <url>
-    <loc>https://Sanduni-P.github.io/IntroPython-pandas/vignettes/1_Introduction.html</loc>
-    <lastmod>2024-09-23T07:58:42.034Z</lastmod>
-  </url>
-  <url>
-    <loc>https://Sanduni-P.github.io/IntroPython-pandas/vignettes/2_Intro_pandas.html</loc>
-    <lastmod>2024-09-23T07:59:32.344Z</lastmod>
+    <loc>https://PMacDaSci.github.io/IntroPython/vignettes/2_Intro_pandas.html</loc>
+    <lastmod>2024-09-25T01:54:48.436Z</lastmod>
   </url>
 </urlset>
